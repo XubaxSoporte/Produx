@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\telcel"
+		},
+		{
+			"path": "..\\Scripts"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
